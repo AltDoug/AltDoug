@@ -1,635 +1,635 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="370" height="413" viewBox="0 0 370 413">
-<rect x="0.5" y="0.5" width="369" height="412" rx="8" fill="#0d1117" stroke="#30363d"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="379" viewBox="0 0 340 379">
+<rect x="0.5" y="0.5" width="339" height="378" rx="8" fill="#0d1117" stroke="#30363d"/>
 <g shape-rendering="crispEdges">
-<clipPath id="r0"><rect x="14" y="14.00" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.000s" fill="freeze"/></rect></clipPath>
+<clipPath id="r0"><rect x="14" y="14.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.000s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r0)">
 </g>
-<clipPath id="r1"><rect x="14" y="21.12" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.030s" fill="freeze"/></rect></clipPath>
+<clipPath id="r1"><rect x="14" y="20.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.030s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r1)">
 </g>
-<clipPath id="r2"><rect x="14" y="28.25" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.060s" fill="freeze"/></rect></clipPath>
+<clipPath id="r2"><rect x="14" y="27.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.060s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r2)">
 </g>
-<clipPath id="r3"><rect x="14" y="35.38" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.090s" fill="freeze"/></rect></clipPath>
+<clipPath id="r3"><rect x="14" y="33.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.090s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r3)">
 </g>
-<clipPath id="r4"><rect x="14" y="42.50" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.120s" fill="freeze"/></rect></clipPath>
+<clipPath id="r4"><rect x="14" y="40.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.120s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r4)">
 </g>
-<clipPath id="r5"><rect x="14" y="49.62" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.150s" fill="freeze"/></rect></clipPath>
+<clipPath id="r5"><rect x="14" y="46.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.150s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r5)">
-<rect x="56.75" y="49.62" width="43.05" height="7.42" fill="#0fb241"/>
-<rect x="99.50" y="49.62" width="164.18" height="7.42" fill="#2d6837"/>
+<rect x="53.00" y="46.50" width="39.30" height="6.80" fill="#0fb241"/>
+<rect x="92.00" y="46.50" width="149.80" height="6.80" fill="#2d6837"/>
 </g>
-<clipPath id="r6"><rect x="14" y="56.75" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.180s" fill="freeze"/></rect></clipPath>
+<clipPath id="r6"><rect x="14" y="53.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.180s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r6)">
-<rect x="49.62" y="56.75" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="56.75" y="56.75" width="35.92" height="7.42" fill="#0fb241"/>
-<rect x="92.38" y="56.75" width="7.42" height="7.42" fill="#6ce48b"/>
-<rect x="99.50" y="56.75" width="157.05" height="7.42" fill="#0fb241"/>
-<rect x="256.25" y="56.75" width="28.80" height="7.42" fill="#2d6837"/>
+<rect x="46.50" y="53.00" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="53.00" y="53.00" width="32.80" height="6.80" fill="#0fb241"/>
+<rect x="85.50" y="53.00" width="6.80" height="6.80" fill="#6ce48b"/>
+<rect x="92.00" y="53.00" width="143.30" height="6.80" fill="#0fb241"/>
+<rect x="235.00" y="53.00" width="26.30" height="6.80" fill="#2d6837"/>
 </g>
-<clipPath id="r7"><rect x="14" y="63.88" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.210s" fill="freeze"/></rect></clipPath>
+<clipPath id="r7"><rect x="14" y="59.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.210s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r7)">
-<rect x="49.62" y="63.88" width="28.80" height="7.42" fill="#0fb241"/>
-<rect x="78.12" y="63.88" width="14.55" height="7.42" fill="#6ce48b"/>
-<rect x="92.38" y="63.88" width="178.43" height="7.42" fill="#0fb241"/>
-<rect x="270.50" y="63.88" width="21.68" height="7.42" fill="#2d6837"/>
+<rect x="46.50" y="59.50" width="26.30" height="6.80" fill="#0fb241"/>
+<rect x="72.50" y="59.50" width="13.30" height="6.80" fill="#6ce48b"/>
+<rect x="85.50" y="59.50" width="162.80" height="6.80" fill="#0fb241"/>
+<rect x="248.00" y="59.50" width="19.80" height="6.80" fill="#2d6837"/>
 </g>
-<clipPath id="r8"><rect x="14" y="71.00" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.240s" fill="freeze"/></rect></clipPath>
+<clipPath id="r8"><rect x="14" y="66.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.240s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r8)">
-<rect x="49.62" y="71.00" width="21.68" height="7.42" fill="#0fb241"/>
-<rect x="71.00" y="71.00" width="14.55" height="7.42" fill="#6ce48b"/>
-<rect x="85.25" y="71.00" width="192.68" height="7.42" fill="#0fb241"/>
-<rect x="277.62" y="71.00" width="14.55" height="7.42" fill="#2d6837"/>
-<rect x="291.88" y="71.00" width="7.42" height="7.42" fill="#34463d"/>
+<rect x="46.50" y="66.00" width="19.80" height="6.80" fill="#0fb241"/>
+<rect x="66.00" y="66.00" width="13.30" height="6.80" fill="#6ce48b"/>
+<rect x="79.00" y="66.00" width="175.80" height="6.80" fill="#0fb241"/>
+<rect x="254.50" y="66.00" width="13.30" height="6.80" fill="#2d6837"/>
+<rect x="267.50" y="66.00" width="6.80" height="6.80" fill="#34463d"/>
 </g>
-<clipPath id="r9"><rect x="14" y="78.12" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.270s" fill="freeze"/></rect></clipPath>
+<clipPath id="r9"><rect x="14" y="72.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.270s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r9)">
-<rect x="49.62" y="78.12" width="14.55" height="7.42" fill="#0fb241"/>
-<rect x="63.88" y="78.12" width="14.55" height="7.42" fill="#6ce48b"/>
-<rect x="78.12" y="78.12" width="78.67" height="7.42" fill="#0fb241"/>
-<rect x="156.50" y="78.12" width="14.55" height="7.42" fill="#2d6837"/>
-<rect x="170.75" y="78.12" width="78.67" height="7.42" fill="#0fb241"/>
-<rect x="249.12" y="78.12" width="35.92" height="7.42" fill="#5da367"/>
-<rect x="284.75" y="78.12" width="14.55" height="7.42" fill="#2d6837"/>
-<rect x="299.00" y="78.12" width="7.42" height="7.42" fill="#34463d"/>
+<rect x="46.50" y="72.50" width="13.30" height="6.80" fill="#0fb241"/>
+<rect x="59.50" y="72.50" width="13.30" height="6.80" fill="#6ce48b"/>
+<rect x="72.50" y="72.50" width="71.80" height="6.80" fill="#0fb241"/>
+<rect x="144.00" y="72.50" width="13.30" height="6.80" fill="#2d6837"/>
+<rect x="157.00" y="72.50" width="71.80" height="6.80" fill="#0fb241"/>
+<rect x="228.50" y="72.50" width="32.80" height="6.80" fill="#5da367"/>
+<rect x="261.00" y="72.50" width="13.30" height="6.80" fill="#2d6837"/>
+<rect x="274.00" y="72.50" width="6.80" height="6.80" fill="#34463d"/>
 </g>
-<clipPath id="r10"><rect x="14" y="85.25" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.300s" fill="freeze"/></rect></clipPath>
+<clipPath id="r10"><rect x="14" y="79.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.300s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r10)">
-<rect x="49.62" y="85.25" width="192.68" height="7.42" fill="#0fb241"/>
-<rect x="242.00" y="85.25" width="43.05" height="7.42" fill="#5da367"/>
-<rect x="284.75" y="85.25" width="14.55" height="7.42" fill="#2d6837"/>
-<rect x="299.00" y="85.25" width="7.42" height="7.42" fill="#34463d"/>
+<rect x="46.50" y="79.00" width="175.80" height="6.80" fill="#0fb241"/>
+<rect x="222.00" y="79.00" width="39.30" height="6.80" fill="#5da367"/>
+<rect x="261.00" y="79.00" width="13.30" height="6.80" fill="#2d6837"/>
+<rect x="274.00" y="79.00" width="6.80" height="6.80" fill="#34463d"/>
 </g>
-<clipPath id="r11"><rect x="14" y="92.38" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.330s" fill="freeze"/></rect></clipPath>
+<clipPath id="r11"><rect x="14" y="85.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.330s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r11)">
-<rect x="49.62" y="92.38" width="7.42" height="7.42" fill="#0fb241"/>
-<rect x="56.75" y="92.38" width="7.42" height="7.42" fill="#6ce48b"/>
-<rect x="63.88" y="92.38" width="7.42" height="7.42" fill="#0fb241"/>
-<rect x="71.00" y="92.38" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="78.12" y="92.38" width="164.18" height="7.42" fill="#0fb241"/>
-<rect x="242.00" y="92.38" width="43.05" height="7.42" fill="#5da367"/>
-<rect x="284.75" y="92.38" width="14.55" height="7.42" fill="#2d6837"/>
-<rect x="299.00" y="92.38" width="7.42" height="7.42" fill="#463026"/>
-<rect x="306.12" y="92.38" width="7.42" height="7.42" fill="#34463d"/>
+<rect x="46.50" y="85.50" width="6.80" height="6.80" fill="#0fb241"/>
+<rect x="53.00" y="85.50" width="6.80" height="6.80" fill="#6ce48b"/>
+<rect x="59.50" y="85.50" width="6.80" height="6.80" fill="#0fb241"/>
+<rect x="66.00" y="85.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="72.50" y="85.50" width="149.80" height="6.80" fill="#0fb241"/>
+<rect x="222.00" y="85.50" width="39.30" height="6.80" fill="#5da367"/>
+<rect x="261.00" y="85.50" width="13.30" height="6.80" fill="#2d6837"/>
+<rect x="274.00" y="85.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="280.50" y="85.50" width="6.80" height="6.80" fill="#34463d"/>
 </g>
-<clipPath id="r12"><rect x="14" y="99.50" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.360s" fill="freeze"/></rect></clipPath>
+<clipPath id="r12"><rect x="14" y="92.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.360s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r12)">
-<rect x="49.62" y="99.50" width="14.55" height="7.42" fill="#0fb241"/>
-<rect x="63.88" y="99.50" width="14.55" height="7.42" fill="#2d6837"/>
-<rect x="78.12" y="99.50" width="64.42" height="7.42" fill="#0fb241"/>
-<rect x="142.25" y="99.50" width="43.05" height="7.42" fill="#6ce48b"/>
-<rect x="185.00" y="99.50" width="57.30" height="7.42" fill="#0fb241"/>
-<rect x="242.00" y="99.50" width="43.05" height="7.42" fill="#5da367"/>
-<rect x="284.75" y="99.50" width="14.55" height="7.42" fill="#2d6837"/>
-<rect x="299.00" y="99.50" width="14.55" height="7.42" fill="#34463d"/>
+<rect x="46.50" y="92.00" width="13.30" height="6.80" fill="#0fb241"/>
+<rect x="59.50" y="92.00" width="13.30" height="6.80" fill="#2d6837"/>
+<rect x="72.50" y="92.00" width="58.80" height="6.80" fill="#0fb241"/>
+<rect x="131.00" y="92.00" width="39.30" height="6.80" fill="#6ce48b"/>
+<rect x="170.00" y="92.00" width="52.30" height="6.80" fill="#0fb241"/>
+<rect x="222.00" y="92.00" width="39.30" height="6.80" fill="#5da367"/>
+<rect x="261.00" y="92.00" width="13.30" height="6.80" fill="#2d6837"/>
+<rect x="274.00" y="92.00" width="13.30" height="6.80" fill="#34463d"/>
 </g>
-<clipPath id="r13"><rect x="14" y="106.62" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.390s" fill="freeze"/></rect></clipPath>
+<clipPath id="r13"><rect x="14" y="98.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.390s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r13)">
-<rect x="49.62" y="106.62" width="7.42" height="7.42" fill="#463026"/>
-<rect x="56.75" y="106.62" width="14.55" height="7.42" fill="#2d6837"/>
-<rect x="71.00" y="106.62" width="64.42" height="7.42" fill="#0fb241"/>
-<rect x="135.12" y="106.62" width="57.30" height="7.42" fill="#6ce48b"/>
-<rect x="192.12" y="106.62" width="50.17" height="7.42" fill="#0fb241"/>
-<rect x="242.00" y="106.62" width="43.05" height="7.42" fill="#5da367"/>
-<rect x="284.75" y="106.62" width="14.55" height="7.42" fill="#2d6837"/>
-<rect x="299.00" y="106.62" width="14.55" height="7.42" fill="#34463d"/>
+<rect x="46.50" y="98.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="53.00" y="98.50" width="13.30" height="6.80" fill="#2d6837"/>
+<rect x="66.00" y="98.50" width="58.80" height="6.80" fill="#0fb241"/>
+<rect x="124.50" y="98.50" width="52.30" height="6.80" fill="#6ce48b"/>
+<rect x="176.50" y="98.50" width="45.80" height="6.80" fill="#0fb241"/>
+<rect x="222.00" y="98.50" width="39.30" height="6.80" fill="#5da367"/>
+<rect x="261.00" y="98.50" width="13.30" height="6.80" fill="#2d6837"/>
+<rect x="274.00" y="98.50" width="13.30" height="6.80" fill="#34463d"/>
 </g>
-<clipPath id="r14"><rect x="14" y="113.75" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.420s" fill="freeze"/></rect></clipPath>
+<clipPath id="r14"><rect x="14" y="105.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.420s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r14)">
-<rect x="49.62" y="113.75" width="7.42" height="7.42" fill="#9a5d26"/>
-<rect x="56.75" y="113.75" width="14.55" height="7.42" fill="#2d6837"/>
-<rect x="71.00" y="113.75" width="64.42" height="7.42" fill="#0fb241"/>
-<rect x="135.12" y="113.75" width="50.17" height="7.42" fill="#6ce48b"/>
-<rect x="185.00" y="113.75" width="57.30" height="7.42" fill="#0fb241"/>
-<rect x="242.00" y="113.75" width="35.92" height="7.42" fill="#5da367"/>
-<rect x="277.62" y="113.75" width="21.68" height="7.42" fill="#2d6837"/>
-<rect x="299.00" y="113.75" width="14.55" height="7.42" fill="#34463d"/>
+<rect x="46.50" y="105.00" width="6.80" height="6.80" fill="#9a5d26"/>
+<rect x="53.00" y="105.00" width="13.30" height="6.80" fill="#2d6837"/>
+<rect x="66.00" y="105.00" width="58.80" height="6.80" fill="#0fb241"/>
+<rect x="124.50" y="105.00" width="45.80" height="6.80" fill="#6ce48b"/>
+<rect x="170.00" y="105.00" width="52.30" height="6.80" fill="#0fb241"/>
+<rect x="222.00" y="105.00" width="32.80" height="6.80" fill="#5da367"/>
+<rect x="254.50" y="105.00" width="19.80" height="6.80" fill="#2d6837"/>
+<rect x="274.00" y="105.00" width="13.30" height="6.80" fill="#34463d"/>
 </g>
-<clipPath id="r15"><rect x="14" y="120.88" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.450s" fill="freeze"/></rect></clipPath>
+<clipPath id="r15"><rect x="14" y="111.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.450s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r15)">
-<rect x="49.62" y="120.88" width="7.42" height="7.42" fill="#6ce48b"/>
-<rect x="56.75" y="120.88" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="63.88" y="120.88" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="71.00" y="120.88" width="71.55" height="7.42" fill="#0fb241"/>
-<rect x="142.25" y="120.88" width="35.92" height="7.42" fill="#6ce48b"/>
-<rect x="177.88" y="120.88" width="50.17" height="7.42" fill="#0fb241"/>
-<rect x="227.75" y="120.88" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="234.88" y="120.88" width="7.42" height="7.42" fill="#0fb241"/>
-<rect x="242.00" y="120.88" width="35.92" height="7.42" fill="#5da367"/>
-<rect x="277.62" y="120.88" width="21.68" height="7.42" fill="#2d6837"/>
-<rect x="299.00" y="120.88" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="306.12" y="120.88" width="14.55" height="7.42" fill="#004631"/>
+<rect x="46.50" y="111.50" width="6.80" height="6.80" fill="#6ce48b"/>
+<rect x="53.00" y="111.50" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="59.50" y="111.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="66.00" y="111.50" width="65.30" height="6.80" fill="#0fb241"/>
+<rect x="131.00" y="111.50" width="32.80" height="6.80" fill="#6ce48b"/>
+<rect x="163.50" y="111.50" width="45.80" height="6.80" fill="#0fb241"/>
+<rect x="209.00" y="111.50" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="215.50" y="111.50" width="6.80" height="6.80" fill="#0fb241"/>
+<rect x="222.00" y="111.50" width="32.80" height="6.80" fill="#5da367"/>
+<rect x="254.50" y="111.50" width="19.80" height="6.80" fill="#2d6837"/>
+<rect x="274.00" y="111.50" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="280.50" y="111.50" width="13.30" height="6.80" fill="#004631"/>
 </g>
-<clipPath id="r16"><rect x="14" y="128.00" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.480s" fill="freeze"/></rect></clipPath>
+<clipPath id="r16"><rect x="14" y="118.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.480s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r16)">
-<rect x="49.62" y="128.00" width="7.42" height="7.42" fill="#9a5d26"/>
-<rect x="56.75" y="128.00" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="63.88" y="128.00" width="149.93" height="7.42" fill="#0fb241"/>
-<rect x="213.50" y="128.00" width="64.42" height="7.42" fill="#5da367"/>
-<rect x="277.62" y="128.00" width="21.68" height="7.42" fill="#2d6837"/>
-<rect x="299.00" y="128.00" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="306.12" y="128.00" width="14.55" height="7.42" fill="#004631"/>
+<rect x="46.50" y="118.00" width="6.80" height="6.80" fill="#9a5d26"/>
+<rect x="53.00" y="118.00" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="59.50" y="118.00" width="136.80" height="6.80" fill="#0fb241"/>
+<rect x="196.00" y="118.00" width="58.80" height="6.80" fill="#5da367"/>
+<rect x="254.50" y="118.00" width="19.80" height="6.80" fill="#2d6837"/>
+<rect x="274.00" y="118.00" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="280.50" y="118.00" width="13.30" height="6.80" fill="#004631"/>
 </g>
-<clipPath id="r17"><rect x="14" y="135.12" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.510s" fill="freeze"/></rect></clipPath>
+<clipPath id="r17"><rect x="14" y="124.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.510s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r17)">
-<rect x="49.62" y="135.12" width="7.42" height="7.42" fill="#9a5d26"/>
-<rect x="56.75" y="135.12" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="63.88" y="135.12" width="85.80" height="7.42" fill="#0fb241"/>
-<rect x="149.38" y="135.12" width="14.55" height="7.42" fill="#2d6837"/>
-<rect x="163.62" y="135.12" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="170.75" y="135.12" width="7.42" height="7.42" fill="#004631"/>
-<rect x="177.88" y="135.12" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="185.00" y="135.12" width="7.42" height="7.42" fill="#0fb241"/>
-<rect x="192.12" y="135.12" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="199.25" y="135.12" width="7.42" height="7.42" fill="#464646"/>
-<rect x="206.38" y="135.12" width="7.42" height="7.42" fill="#004631"/>
-<rect x="213.50" y="135.12" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="220.62" y="135.12" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="227.75" y="135.12" width="50.17" height="7.42" fill="#5da367"/>
-<rect x="277.62" y="135.12" width="21.68" height="7.42" fill="#2d6837"/>
-<rect x="299.00" y="135.12" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="306.12" y="135.12" width="14.55" height="7.42" fill="#004631"/>
+<rect x="46.50" y="124.50" width="6.80" height="6.80" fill="#9a5d26"/>
+<rect x="53.00" y="124.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="59.50" y="124.50" width="78.30" height="6.80" fill="#0fb241"/>
+<rect x="137.50" y="124.50" width="13.30" height="6.80" fill="#2d6837"/>
+<rect x="150.50" y="124.50" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="157.00" y="124.50" width="6.80" height="6.80" fill="#004631"/>
+<rect x="163.50" y="124.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="170.00" y="124.50" width="6.80" height="6.80" fill="#0fb241"/>
+<rect x="176.50" y="124.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="183.00" y="124.50" width="6.80" height="6.80" fill="#464646"/>
+<rect x="189.50" y="124.50" width="6.80" height="6.80" fill="#004631"/>
+<rect x="196.00" y="124.50" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="202.50" y="124.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="209.00" y="124.50" width="45.80" height="6.80" fill="#5da367"/>
+<rect x="254.50" y="124.50" width="19.80" height="6.80" fill="#2d6837"/>
+<rect x="274.00" y="124.50" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="280.50" y="124.50" width="13.30" height="6.80" fill="#004631"/>
 </g>
-<clipPath id="r18"><rect x="14" y="142.25" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.540s" fill="freeze"/></rect></clipPath>
+<clipPath id="r18"><rect x="14" y="131.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.540s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r18)">
-<rect x="49.62" y="142.25" width="7.42" height="7.42" fill="#9a5d26"/>
-<rect x="56.75" y="142.25" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="63.88" y="142.25" width="107.17" height="7.42" fill="#0fb241"/>
-<rect x="170.75" y="142.25" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="177.88" y="142.25" width="7.42" height="7.42" fill="#0fb241"/>
-<rect x="185.00" y="142.25" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="192.12" y="142.25" width="7.42" height="7.42" fill="#0fb241"/>
-<rect x="199.25" y="142.25" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="206.38" y="142.25" width="7.42" height="7.42" fill="#0fb241"/>
-<rect x="213.50" y="142.25" width="64.42" height="7.42" fill="#5da367"/>
-<rect x="277.62" y="142.25" width="21.68" height="7.42" fill="#2d6837"/>
-<rect x="299.00" y="142.25" width="21.68" height="7.42" fill="#34463d"/>
+<rect x="46.50" y="131.00" width="6.80" height="6.80" fill="#9a5d26"/>
+<rect x="53.00" y="131.00" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="59.50" y="131.00" width="97.80" height="6.80" fill="#0fb241"/>
+<rect x="157.00" y="131.00" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="163.50" y="131.00" width="6.80" height="6.80" fill="#0fb241"/>
+<rect x="170.00" y="131.00" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="176.50" y="131.00" width="6.80" height="6.80" fill="#0fb241"/>
+<rect x="183.00" y="131.00" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="189.50" y="131.00" width="6.80" height="6.80" fill="#0fb241"/>
+<rect x="196.00" y="131.00" width="58.80" height="6.80" fill="#5da367"/>
+<rect x="254.50" y="131.00" width="19.80" height="6.80" fill="#2d6837"/>
+<rect x="274.00" y="131.00" width="19.80" height="6.80" fill="#34463d"/>
 </g>
-<clipPath id="r19"><rect x="14" y="149.38" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.570s" fill="freeze"/></rect></clipPath>
+<clipPath id="r19"><rect x="14" y="137.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.570s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r19)">
-<rect x="49.62" y="149.38" width="14.55" height="7.42" fill="#9a5d26"/>
-<rect x="63.88" y="149.38" width="21.68" height="7.42" fill="#463026"/>
-<rect x="85.25" y="149.38" width="185.55" height="7.42" fill="#9a5d26"/>
-<rect x="270.50" y="149.38" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="277.62" y="149.38" width="21.68" height="7.42" fill="#463026"/>
-<rect x="299.00" y="149.38" width="21.68" height="7.42" fill="#34463d"/>
+<rect x="46.50" y="137.50" width="13.30" height="6.80" fill="#9a5d26"/>
+<rect x="59.50" y="137.50" width="19.80" height="6.80" fill="#463026"/>
+<rect x="79.00" y="137.50" width="169.30" height="6.80" fill="#9a5d26"/>
+<rect x="248.00" y="137.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="254.50" y="137.50" width="19.80" height="6.80" fill="#463026"/>
+<rect x="274.00" y="137.50" width="19.80" height="6.80" fill="#34463d"/>
 </g>
-<clipPath id="r20"><rect x="14" y="156.50" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.600s" fill="freeze"/></rect></clipPath>
+<clipPath id="r20"><rect x="14" y="144.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.600s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r20)">
-<rect x="49.62" y="156.50" width="14.55" height="7.42" fill="#9a5d26"/>
-<rect x="63.88" y="156.50" width="21.68" height="7.42" fill="#463026"/>
-<rect x="85.25" y="156.50" width="185.55" height="7.42" fill="#9a5d26"/>
-<rect x="270.50" y="156.50" width="28.80" height="7.42" fill="#463026"/>
-<rect x="299.00" y="156.50" width="14.55" height="7.42" fill="#34463d"/>
-<rect x="313.25" y="156.50" width="7.42" height="7.42" fill="#463026"/>
+<rect x="46.50" y="144.00" width="13.30" height="6.80" fill="#9a5d26"/>
+<rect x="59.50" y="144.00" width="19.80" height="6.80" fill="#463026"/>
+<rect x="79.00" y="144.00" width="169.30" height="6.80" fill="#9a5d26"/>
+<rect x="248.00" y="144.00" width="26.30" height="6.80" fill="#463026"/>
+<rect x="274.00" y="144.00" width="13.30" height="6.80" fill="#34463d"/>
+<rect x="287.00" y="144.00" width="6.80" height="6.80" fill="#463026"/>
 </g>
-<clipPath id="r21"><rect x="14" y="163.62" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.630s" fill="freeze"/></rect></clipPath>
+<clipPath id="r21"><rect x="14" y="150.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.630s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r21)">
-<rect x="49.62" y="163.62" width="14.55" height="7.42" fill="#9a5d26"/>
-<rect x="63.88" y="163.62" width="21.68" height="7.42" fill="#463026"/>
-<rect x="85.25" y="163.62" width="192.68" height="7.42" fill="#9a5d26"/>
-<rect x="277.62" y="163.62" width="14.55" height="7.42" fill="#463026"/>
-<rect x="291.88" y="163.62" width="14.55" height="7.42" fill="#34463d"/>
-<rect x="306.12" y="163.62" width="7.42" height="7.42" fill="#004631"/>
-<rect x="313.25" y="163.62" width="7.42" height="7.42" fill="#463026"/>
+<rect x="46.50" y="150.50" width="13.30" height="6.80" fill="#9a5d26"/>
+<rect x="59.50" y="150.50" width="19.80" height="6.80" fill="#463026"/>
+<rect x="79.00" y="150.50" width="175.80" height="6.80" fill="#9a5d26"/>
+<rect x="254.50" y="150.50" width="13.30" height="6.80" fill="#463026"/>
+<rect x="267.50" y="150.50" width="13.30" height="6.80" fill="#34463d"/>
+<rect x="280.50" y="150.50" width="6.80" height="6.80" fill="#004631"/>
+<rect x="287.00" y="150.50" width="6.80" height="6.80" fill="#463026"/>
 </g>
-<clipPath id="r22"><rect x="14" y="170.75" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.660s" fill="freeze"/></rect></clipPath>
+<clipPath id="r22"><rect x="14" y="157.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.660s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r22)">
-<rect x="49.62" y="170.75" width="14.55" height="7.42" fill="#9a5d26"/>
-<rect x="63.88" y="170.75" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="71.00" y="170.75" width="14.55" height="7.42" fill="#9a5d26"/>
-<rect x="85.25" y="170.75" width="7.42" height="7.42" fill="#463026"/>
-<rect x="92.38" y="170.75" width="171.30" height="7.42" fill="#9a5d26"/>
-<rect x="263.38" y="170.75" width="28.80" height="7.42" fill="#463026"/>
-<rect x="291.88" y="170.75" width="21.68" height="7.42" fill="#2d6837"/>
-<rect x="313.25" y="170.75" width="7.42" height="7.42" fill="#463026"/>
+<rect x="46.50" y="157.00" width="13.30" height="6.80" fill="#9a5d26"/>
+<rect x="59.50" y="157.00" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="66.00" y="157.00" width="13.30" height="6.80" fill="#9a5d26"/>
+<rect x="79.00" y="157.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="85.50" y="157.00" width="156.30" height="6.80" fill="#9a5d26"/>
+<rect x="241.50" y="157.00" width="26.30" height="6.80" fill="#463026"/>
+<rect x="267.50" y="157.00" width="19.80" height="6.80" fill="#2d6837"/>
+<rect x="287.00" y="157.00" width="6.80" height="6.80" fill="#463026"/>
 </g>
-<clipPath id="r23"><rect x="14" y="177.88" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.690s" fill="freeze"/></rect></clipPath>
+<clipPath id="r23"><rect x="14" y="163.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.690s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r23)">
-<rect x="49.62" y="177.88" width="7.42" height="7.42" fill="#9a5d26"/>
-<rect x="56.75" y="177.88" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="63.88" y="177.88" width="14.55" height="7.42" fill="#6ce48b"/>
-<rect x="78.12" y="177.88" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="85.25" y="177.88" width="7.42" height="7.42" fill="#463026"/>
-<rect x="92.38" y="177.88" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="99.50" y="177.88" width="157.05" height="7.42" fill="#463026"/>
-<rect x="256.25" y="177.88" width="21.68" height="7.42" fill="#34463d"/>
-<rect x="277.62" y="177.88" width="7.42" height="7.42" fill="#004631"/>
-<rect x="284.75" y="177.88" width="7.42" height="7.42" fill="#463026"/>
-<rect x="291.88" y="177.88" width="21.68" height="7.42" fill="#6ce48b"/>
-<rect x="313.25" y="177.88" width="7.42" height="7.42" fill="#2d6837"/>
+<rect x="46.50" y="163.50" width="6.80" height="6.80" fill="#9a5d26"/>
+<rect x="53.00" y="163.50" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="59.50" y="163.50" width="13.30" height="6.80" fill="#6ce48b"/>
+<rect x="72.50" y="163.50" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="79.00" y="163.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="85.50" y="163.50" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="92.00" y="163.50" width="143.30" height="6.80" fill="#463026"/>
+<rect x="235.00" y="163.50" width="19.80" height="6.80" fill="#34463d"/>
+<rect x="254.50" y="163.50" width="6.80" height="6.80" fill="#004631"/>
+<rect x="261.00" y="163.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="267.50" y="163.50" width="19.80" height="6.80" fill="#6ce48b"/>
+<rect x="287.00" y="163.50" width="6.80" height="6.80" fill="#2d6837"/>
 </g>
-<clipPath id="r24"><rect x="14" y="185.00" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.720s" fill="freeze"/></rect></clipPath>
+<clipPath id="r24"><rect x="14" y="170.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.720s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r24)">
-<rect x="49.62" y="185.00" width="7.42" height="7.42" fill="#9a5d26"/>
-<rect x="56.75" y="185.00" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="63.88" y="185.00" width="7.42" height="7.42" fill="#6ce48b"/>
-<rect x="71.00" y="185.00" width="14.55" height="7.42" fill="#5da367"/>
-<rect x="85.25" y="185.00" width="14.55" height="7.42" fill="#34463d"/>
-<rect x="99.50" y="185.00" width="121.42" height="7.42" fill="#463026"/>
-<rect x="220.62" y="185.00" width="57.30" height="7.42" fill="#34463d"/>
-<rect x="277.62" y="185.00" width="7.42" height="7.42" fill="#004631"/>
-<rect x="284.75" y="185.00" width="7.42" height="7.42" fill="#463026"/>
-<rect x="291.88" y="185.00" width="14.55" height="7.42" fill="#6ce48b"/>
-<rect x="306.12" y="185.00" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="313.25" y="185.00" width="7.42" height="7.42" fill="#2d6837"/>
+<rect x="46.50" y="170.00" width="6.80" height="6.80" fill="#9a5d26"/>
+<rect x="53.00" y="170.00" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="59.50" y="170.00" width="6.80" height="6.80" fill="#6ce48b"/>
+<rect x="66.00" y="170.00" width="13.30" height="6.80" fill="#5da367"/>
+<rect x="79.00" y="170.00" width="13.30" height="6.80" fill="#34463d"/>
+<rect x="92.00" y="170.00" width="110.80" height="6.80" fill="#463026"/>
+<rect x="202.50" y="170.00" width="52.30" height="6.80" fill="#34463d"/>
+<rect x="254.50" y="170.00" width="6.80" height="6.80" fill="#004631"/>
+<rect x="261.00" y="170.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="267.50" y="170.00" width="13.30" height="6.80" fill="#6ce48b"/>
+<rect x="280.50" y="170.00" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="287.00" y="170.00" width="6.80" height="6.80" fill="#2d6837"/>
 </g>
-<clipPath id="r25"><rect x="14" y="192.12" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.750s" fill="freeze"/></rect></clipPath>
+<clipPath id="r25"><rect x="14" y="176.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.750s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r25)">
-<rect x="49.62" y="192.12" width="7.42" height="7.42" fill="#463026"/>
-<rect x="56.75" y="192.12" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="63.88" y="192.12" width="14.55" height="7.42" fill="#6ce48b"/>
-<rect x="78.12" y="192.12" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="85.25" y="192.12" width="21.68" height="7.42" fill="#34463d"/>
-<rect x="106.62" y="192.12" width="128.55" height="7.42" fill="#463026"/>
-<rect x="234.88" y="192.12" width="43.05" height="7.42" fill="#34463d"/>
-<rect x="277.62" y="192.12" width="7.42" height="7.42" fill="#464646"/>
-<rect x="284.75" y="192.12" width="7.42" height="7.42" fill="#463026"/>
-<rect x="291.88" y="192.12" width="21.68" height="7.42" fill="#6ce48b"/>
-<rect x="313.25" y="192.12" width="7.42" height="7.42" fill="#9a5d26"/>
+<rect x="46.50" y="176.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="53.00" y="176.50" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="59.50" y="176.50" width="13.30" height="6.80" fill="#6ce48b"/>
+<rect x="72.50" y="176.50" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="79.00" y="176.50" width="19.80" height="6.80" fill="#34463d"/>
+<rect x="98.50" y="176.50" width="117.30" height="6.80" fill="#463026"/>
+<rect x="215.50" y="176.50" width="39.30" height="6.80" fill="#34463d"/>
+<rect x="254.50" y="176.50" width="6.80" height="6.80" fill="#464646"/>
+<rect x="261.00" y="176.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="267.50" y="176.50" width="19.80" height="6.80" fill="#6ce48b"/>
+<rect x="287.00" y="176.50" width="6.80" height="6.80" fill="#9a5d26"/>
 </g>
-<clipPath id="r26"><rect x="14" y="199.25" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.780s" fill="freeze"/></rect></clipPath>
+<clipPath id="r26"><rect x="14" y="183.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.780s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r26)">
-<rect x="49.62" y="199.25" width="14.55" height="7.42" fill="#9a5d26"/>
-<rect x="63.88" y="199.25" width="14.55" height="7.42" fill="#5da367"/>
-<rect x="78.12" y="199.25" width="7.42" height="7.42" fill="#6ce48b"/>
-<rect x="85.25" y="199.25" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="92.38" y="199.25" width="21.68" height="7.42" fill="#2d6837"/>
-<rect x="113.75" y="199.25" width="107.17" height="7.42" fill="#463026"/>
-<rect x="220.62" y="199.25" width="35.92" height="7.42" fill="#34463d"/>
-<rect x="256.25" y="199.25" width="7.42" height="7.42" fill="#463026"/>
-<rect x="263.38" y="199.25" width="21.68" height="7.42" fill="#2d6837"/>
-<rect x="284.75" y="199.25" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="291.88" y="199.25" width="7.42" height="7.42" fill="#6ce48b"/>
-<rect x="299.00" y="199.25" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="306.12" y="199.25" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="313.25" y="199.25" width="7.42" height="7.42" fill="#463026"/>
+<rect x="46.50" y="183.00" width="13.30" height="6.80" fill="#9a5d26"/>
+<rect x="59.50" y="183.00" width="13.30" height="6.80" fill="#5da367"/>
+<rect x="72.50" y="183.00" width="6.80" height="6.80" fill="#6ce48b"/>
+<rect x="79.00" y="183.00" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="85.50" y="183.00" width="19.80" height="6.80" fill="#2d6837"/>
+<rect x="105.00" y="183.00" width="97.80" height="6.80" fill="#463026"/>
+<rect x="202.50" y="183.00" width="32.80" height="6.80" fill="#34463d"/>
+<rect x="235.00" y="183.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="241.50" y="183.00" width="19.80" height="6.80" fill="#2d6837"/>
+<rect x="261.00" y="183.00" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="267.50" y="183.00" width="6.80" height="6.80" fill="#6ce48b"/>
+<rect x="274.00" y="183.00" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="280.50" y="183.00" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="287.00" y="183.00" width="6.80" height="6.80" fill="#463026"/>
 </g>
-<clipPath id="r27"><rect x="14" y="206.38" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.810s" fill="freeze"/></rect></clipPath>
+<clipPath id="r27"><rect x="14" y="189.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.810s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r27)">
-<rect x="49.62" y="206.38" width="14.55" height="7.42" fill="#9a5d26"/>
-<rect x="63.88" y="206.38" width="7.42" height="7.42" fill="#463026"/>
-<rect x="71.00" y="206.38" width="28.80" height="7.42" fill="#9a5d26"/>
-<rect x="99.50" y="206.38" width="35.92" height="7.42" fill="#5da367"/>
-<rect x="135.12" y="206.38" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="142.25" y="206.38" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="149.38" y="206.38" width="14.55" height="7.42" fill="#2d6837"/>
-<rect x="163.62" y="206.38" width="50.17" height="7.42" fill="#463026"/>
-<rect x="213.50" y="206.38" width="14.55" height="7.42" fill="#2d6837"/>
-<rect x="227.75" y="206.38" width="57.30" height="7.42" fill="#5da367"/>
-<rect x="284.75" y="206.38" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="291.88" y="206.38" width="7.42" height="7.42" fill="#463026"/>
-<rect x="299.00" y="206.38" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="306.12" y="206.38" width="7.42" height="7.42" fill="#004631"/>
-<rect x="313.25" y="206.38" width="7.42" height="7.42" fill="#463026"/>
+<rect x="46.50" y="189.50" width="13.30" height="6.80" fill="#9a5d26"/>
+<rect x="59.50" y="189.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="66.00" y="189.50" width="26.30" height="6.80" fill="#9a5d26"/>
+<rect x="92.00" y="189.50" width="32.80" height="6.80" fill="#5da367"/>
+<rect x="124.50" y="189.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="131.00" y="189.50" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="137.50" y="189.50" width="13.30" height="6.80" fill="#2d6837"/>
+<rect x="150.50" y="189.50" width="45.80" height="6.80" fill="#463026"/>
+<rect x="196.00" y="189.50" width="13.30" height="6.80" fill="#2d6837"/>
+<rect x="209.00" y="189.50" width="52.30" height="6.80" fill="#5da367"/>
+<rect x="261.00" y="189.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="267.50" y="189.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="274.00" y="189.50" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="280.50" y="189.50" width="6.80" height="6.80" fill="#004631"/>
+<rect x="287.00" y="189.50" width="6.80" height="6.80" fill="#463026"/>
 </g>
-<clipPath id="r28"><rect x="14" y="213.50" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.840s" fill="freeze"/></rect></clipPath>
+<clipPath id="r28"><rect x="14" y="196.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.840s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r28)">
-<rect x="49.62" y="213.50" width="114.30" height="7.42" fill="#9a5d26"/>
-<rect x="163.62" y="213.50" width="43.05" height="7.42" fill="#463026"/>
-<rect x="206.38" y="213.50" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="213.50" y="213.50" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="220.62" y="213.50" width="57.30" height="7.42" fill="#9a5d26"/>
-<rect x="277.62" y="213.50" width="21.68" height="7.42" fill="#463026"/>
-<rect x="299.00" y="213.50" width="14.55" height="7.42" fill="#34463d"/>
-<rect x="313.25" y="213.50" width="7.42" height="7.42" fill="#463026"/>
+<rect x="46.50" y="196.00" width="104.30" height="6.80" fill="#9a5d26"/>
+<rect x="150.50" y="196.00" width="39.30" height="6.80" fill="#463026"/>
+<rect x="189.50" y="196.00" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="196.00" y="196.00" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="202.50" y="196.00" width="52.30" height="6.80" fill="#9a5d26"/>
+<rect x="254.50" y="196.00" width="19.80" height="6.80" fill="#463026"/>
+<rect x="274.00" y="196.00" width="13.30" height="6.80" fill="#34463d"/>
+<rect x="287.00" y="196.00" width="6.80" height="6.80" fill="#463026"/>
 </g>
-<clipPath id="r29"><rect x="14" y="220.62" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.870s" fill="freeze"/></rect></clipPath>
+<clipPath id="r29"><rect x="14" y="202.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.870s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r29)">
-<rect x="49.62" y="220.62" width="14.55" height="7.42" fill="#9a5d26"/>
-<rect x="63.88" y="220.62" width="14.55" height="7.42" fill="#463026"/>
-<rect x="78.12" y="220.62" width="85.80" height="7.42" fill="#9a5d26"/>
-<rect x="163.62" y="220.62" width="43.05" height="7.42" fill="#463026"/>
-<rect x="206.38" y="220.62" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="213.50" y="220.62" width="7.42" height="7.42" fill="#463026"/>
-<rect x="220.62" y="220.62" width="64.42" height="7.42" fill="#9a5d26"/>
-<rect x="284.75" y="220.62" width="14.55" height="7.42" fill="#463026"/>
-<rect x="299.00" y="220.62" width="14.55" height="7.42" fill="#34463d"/>
-<rect x="313.25" y="220.62" width="7.42" height="7.42" fill="#9a5d26"/>
+<rect x="46.50" y="202.50" width="13.30" height="6.80" fill="#9a5d26"/>
+<rect x="59.50" y="202.50" width="13.30" height="6.80" fill="#463026"/>
+<rect x="72.50" y="202.50" width="78.30" height="6.80" fill="#9a5d26"/>
+<rect x="150.50" y="202.50" width="39.30" height="6.80" fill="#463026"/>
+<rect x="189.50" y="202.50" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="196.00" y="202.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="202.50" y="202.50" width="58.80" height="6.80" fill="#9a5d26"/>
+<rect x="261.00" y="202.50" width="13.30" height="6.80" fill="#463026"/>
+<rect x="274.00" y="202.50" width="13.30" height="6.80" fill="#34463d"/>
+<rect x="287.00" y="202.50" width="6.80" height="6.80" fill="#9a5d26"/>
 </g>
-<clipPath id="r30"><rect x="14" y="227.75" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.900s" fill="freeze"/></rect></clipPath>
+<clipPath id="r30"><rect x="14" y="209.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.900s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r30)">
-<rect x="49.62" y="227.75" width="7.42" height="7.42" fill="#9a5d26"/>
-<rect x="56.75" y="227.75" width="7.42" height="7.42" fill="#463026"/>
-<rect x="63.88" y="227.75" width="28.80" height="7.42" fill="#34463d"/>
-<rect x="92.38" y="227.75" width="7.42" height="7.42" fill="#463026"/>
-<rect x="99.50" y="227.75" width="64.42" height="7.42" fill="#9a5d26"/>
-<rect x="163.62" y="227.75" width="43.05" height="7.42" fill="#463026"/>
-<rect x="206.38" y="227.75" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="213.50" y="227.75" width="7.42" height="7.42" fill="#463026"/>
-<rect x="220.62" y="227.75" width="50.17" height="7.42" fill="#9a5d26"/>
-<rect x="270.50" y="227.75" width="7.42" height="7.42" fill="#463026"/>
-<rect x="277.62" y="227.75" width="14.55" height="7.42" fill="#34463d"/>
-<rect x="291.88" y="227.75" width="7.42" height="7.42" fill="#004631"/>
-<rect x="299.00" y="227.75" width="7.42" height="7.42" fill="#464646"/>
-<rect x="306.12" y="227.75" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="313.25" y="227.75" width="7.42" height="7.42" fill="#9a5d26"/>
+<rect x="46.50" y="209.00" width="6.80" height="6.80" fill="#9a5d26"/>
+<rect x="53.00" y="209.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="59.50" y="209.00" width="26.30" height="6.80" fill="#34463d"/>
+<rect x="85.50" y="209.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="92.00" y="209.00" width="58.80" height="6.80" fill="#9a5d26"/>
+<rect x="150.50" y="209.00" width="39.30" height="6.80" fill="#463026"/>
+<rect x="189.50" y="209.00" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="196.00" y="209.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="202.50" y="209.00" width="45.80" height="6.80" fill="#9a5d26"/>
+<rect x="248.00" y="209.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="254.50" y="209.00" width="13.30" height="6.80" fill="#34463d"/>
+<rect x="267.50" y="209.00" width="6.80" height="6.80" fill="#004631"/>
+<rect x="274.00" y="209.00" width="6.80" height="6.80" fill="#464646"/>
+<rect x="280.50" y="209.00" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="287.00" y="209.00" width="6.80" height="6.80" fill="#9a5d26"/>
 </g>
-<clipPath id="r31"><rect x="14" y="234.88" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.930s" fill="freeze"/></rect></clipPath>
+<clipPath id="r31"><rect x="14" y="215.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.930s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r31)">
-<rect x="49.62" y="234.88" width="7.42" height="7.42" fill="#9a5d26"/>
-<rect x="56.75" y="234.88" width="7.42" height="7.42" fill="#463026"/>
-<rect x="63.88" y="234.88" width="14.55" height="7.42" fill="#34463d"/>
-<rect x="78.12" y="234.88" width="7.42" height="7.42" fill="#004631"/>
-<rect x="85.25" y="234.88" width="21.68" height="7.42" fill="#34463d"/>
-<rect x="106.62" y="234.88" width="7.42" height="7.42" fill="#463026"/>
-<rect x="113.75" y="234.88" width="50.17" height="7.42" fill="#9a5d26"/>
-<rect x="163.62" y="234.88" width="43.05" height="7.42" fill="#463026"/>
-<rect x="206.38" y="234.88" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="213.50" y="234.88" width="7.42" height="7.42" fill="#463026"/>
-<rect x="220.62" y="234.88" width="43.05" height="7.42" fill="#9a5d26"/>
-<rect x="263.38" y="234.88" width="7.42" height="7.42" fill="#463026"/>
-<rect x="270.50" y="234.88" width="7.42" height="7.42" fill="#004631"/>
-<rect x="277.62" y="234.88" width="21.68" height="7.42" fill="#464646"/>
-<rect x="299.00" y="234.88" width="7.42" height="7.42" fill="#004631"/>
-<rect x="306.12" y="234.88" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="313.25" y="234.88" width="7.42" height="7.42" fill="#9a5d26"/>
+<rect x="46.50" y="215.50" width="6.80" height="6.80" fill="#9a5d26"/>
+<rect x="53.00" y="215.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="59.50" y="215.50" width="13.30" height="6.80" fill="#34463d"/>
+<rect x="72.50" y="215.50" width="6.80" height="6.80" fill="#004631"/>
+<rect x="79.00" y="215.50" width="19.80" height="6.80" fill="#34463d"/>
+<rect x="98.50" y="215.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="105.00" y="215.50" width="45.80" height="6.80" fill="#9a5d26"/>
+<rect x="150.50" y="215.50" width="39.30" height="6.80" fill="#463026"/>
+<rect x="189.50" y="215.50" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="196.00" y="215.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="202.50" y="215.50" width="39.30" height="6.80" fill="#9a5d26"/>
+<rect x="241.50" y="215.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="248.00" y="215.50" width="6.80" height="6.80" fill="#004631"/>
+<rect x="254.50" y="215.50" width="19.80" height="6.80" fill="#464646"/>
+<rect x="274.00" y="215.50" width="6.80" height="6.80" fill="#004631"/>
+<rect x="280.50" y="215.50" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="287.00" y="215.50" width="6.80" height="6.80" fill="#9a5d26"/>
 </g>
-<clipPath id="r32"><rect x="14" y="242.00" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.960s" fill="freeze"/></rect></clipPath>
+<clipPath id="r32"><rect x="14" y="222.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.960s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r32)">
-<rect x="49.62" y="242.00" width="7.42" height="7.42" fill="#9a5d26"/>
-<rect x="56.75" y="242.00" width="7.42" height="7.42" fill="#463026"/>
-<rect x="63.88" y="242.00" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="71.00" y="242.00" width="21.68" height="7.42" fill="#2d6837"/>
-<rect x="92.38" y="242.00" width="21.68" height="7.42" fill="#34463d"/>
-<rect x="113.75" y="242.00" width="7.42" height="7.42" fill="#463026"/>
-<rect x="120.88" y="242.00" width="43.05" height="7.42" fill="#9a5d26"/>
-<rect x="163.62" y="242.00" width="43.05" height="7.42" fill="#463026"/>
-<rect x="206.38" y="242.00" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="213.50" y="242.00" width="7.42" height="7.42" fill="#463026"/>
-<rect x="220.62" y="242.00" width="35.92" height="7.42" fill="#9a5d26"/>
-<rect x="256.25" y="242.00" width="7.42" height="7.42" fill="#463026"/>
-<rect x="263.38" y="242.00" width="7.42" height="7.42" fill="#004631"/>
-<rect x="270.50" y="242.00" width="7.42" height="7.42" fill="#464646"/>
-<rect x="277.62" y="242.00" width="7.42" height="7.42" fill="#004631"/>
-<rect x="284.75" y="242.00" width="14.55" height="7.42" fill="#34463d"/>
-<rect x="299.00" y="242.00" width="7.42" height="7.42" fill="#004631"/>
-<rect x="306.12" y="242.00" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="313.25" y="242.00" width="7.42" height="7.42" fill="#9a5d26"/>
+<rect x="46.50" y="222.00" width="6.80" height="6.80" fill="#9a5d26"/>
+<rect x="53.00" y="222.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="59.50" y="222.00" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="66.00" y="222.00" width="19.80" height="6.80" fill="#2d6837"/>
+<rect x="85.50" y="222.00" width="19.80" height="6.80" fill="#34463d"/>
+<rect x="105.00" y="222.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="111.50" y="222.00" width="39.30" height="6.80" fill="#9a5d26"/>
+<rect x="150.50" y="222.00" width="39.30" height="6.80" fill="#463026"/>
+<rect x="189.50" y="222.00" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="196.00" y="222.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="202.50" y="222.00" width="32.80" height="6.80" fill="#9a5d26"/>
+<rect x="235.00" y="222.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="241.50" y="222.00" width="6.80" height="6.80" fill="#004631"/>
+<rect x="248.00" y="222.00" width="6.80" height="6.80" fill="#464646"/>
+<rect x="254.50" y="222.00" width="6.80" height="6.80" fill="#004631"/>
+<rect x="261.00" y="222.00" width="13.30" height="6.80" fill="#34463d"/>
+<rect x="274.00" y="222.00" width="6.80" height="6.80" fill="#004631"/>
+<rect x="280.50" y="222.00" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="287.00" y="222.00" width="6.80" height="6.80" fill="#9a5d26"/>
 </g>
-<clipPath id="r33"><rect x="14" y="249.12" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="0.990s" fill="freeze"/></rect></clipPath>
+<clipPath id="r33"><rect x="14" y="228.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="0.990s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r33)">
-<rect x="49.62" y="249.12" width="21.68" height="7.42" fill="#463026"/>
-<rect x="71.00" y="249.12" width="7.42" height="7.42" fill="#0fb241"/>
-<rect x="78.12" y="249.12" width="14.55" height="7.42" fill="#5da367"/>
-<rect x="92.38" y="249.12" width="7.42" height="7.42" fill="#0fb241"/>
-<rect x="99.50" y="249.12" width="21.68" height="7.42" fill="#34463d"/>
-<rect x="120.88" y="249.12" width="43.05" height="7.42" fill="#9a5d26"/>
-<rect x="163.62" y="249.12" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="170.75" y="249.12" width="35.92" height="7.42" fill="#463026"/>
-<rect x="206.38" y="249.12" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="213.50" y="249.12" width="7.42" height="7.42" fill="#463026"/>
-<rect x="220.62" y="249.12" width="28.80" height="7.42" fill="#9a5d26"/>
-<rect x="249.12" y="249.12" width="7.42" height="7.42" fill="#463026"/>
-<rect x="256.25" y="249.12" width="7.42" height="7.42" fill="#004631"/>
-<rect x="263.38" y="249.12" width="7.42" height="7.42" fill="#464646"/>
-<rect x="270.50" y="249.12" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="277.62" y="249.12" width="14.55" height="7.42" fill="#2d6837"/>
-<rect x="291.88" y="249.12" width="21.68" height="7.42" fill="#34463d"/>
-<rect x="313.25" y="249.12" width="7.42" height="7.42" fill="#9a5d26"/>
+<rect x="46.50" y="228.50" width="19.80" height="6.80" fill="#463026"/>
+<rect x="66.00" y="228.50" width="6.80" height="6.80" fill="#0fb241"/>
+<rect x="72.50" y="228.50" width="13.30" height="6.80" fill="#5da367"/>
+<rect x="85.50" y="228.50" width="6.80" height="6.80" fill="#0fb241"/>
+<rect x="92.00" y="228.50" width="19.80" height="6.80" fill="#34463d"/>
+<rect x="111.50" y="228.50" width="39.30" height="6.80" fill="#9a5d26"/>
+<rect x="150.50" y="228.50" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="157.00" y="228.50" width="32.80" height="6.80" fill="#463026"/>
+<rect x="189.50" y="228.50" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="196.00" y="228.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="202.50" y="228.50" width="26.30" height="6.80" fill="#9a5d26"/>
+<rect x="228.50" y="228.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="235.00" y="228.50" width="6.80" height="6.80" fill="#004631"/>
+<rect x="241.50" y="228.50" width="6.80" height="6.80" fill="#464646"/>
+<rect x="248.00" y="228.50" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="254.50" y="228.50" width="13.30" height="6.80" fill="#2d6837"/>
+<rect x="267.50" y="228.50" width="19.80" height="6.80" fill="#34463d"/>
+<rect x="287.00" y="228.50" width="6.80" height="6.80" fill="#9a5d26"/>
 </g>
-<clipPath id="r34"><rect x="14" y="256.25" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="1.020s" fill="freeze"/></rect></clipPath>
+<clipPath id="r34"><rect x="14" y="235.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="1.020s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r34)">
-<rect x="49.62" y="256.25" width="14.55" height="7.42" fill="#463026"/>
-<rect x="63.88" y="256.25" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="71.00" y="256.25" width="14.55" height="7.42" fill="#0fb241"/>
-<rect x="85.25" y="256.25" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="92.38" y="256.25" width="7.42" height="7.42" fill="#6ce48b"/>
-<rect x="99.50" y="256.25" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="106.62" y="256.25" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="113.75" y="256.25" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="120.88" y="256.25" width="7.42" height="7.42" fill="#463026"/>
-<rect x="128.00" y="256.25" width="28.80" height="7.42" fill="#9a5d26"/>
-<rect x="156.50" y="256.25" width="7.42" height="7.42" fill="#463026"/>
-<rect x="163.62" y="256.25" width="50.17" height="7.42" fill="#34463d"/>
-<rect x="213.50" y="256.25" width="7.42" height="7.42" fill="#463026"/>
-<rect x="220.62" y="256.25" width="28.80" height="7.42" fill="#9a5d26"/>
-<rect x="249.12" y="256.25" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="256.25" y="256.25" width="7.42" height="7.42" fill="#464646"/>
-<rect x="263.38" y="256.25" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="270.50" y="256.25" width="14.55" height="7.42" fill="#5da367"/>
-<rect x="284.75" y="256.25" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="291.88" y="256.25" width="21.68" height="7.42" fill="#34463d"/>
-<rect x="313.25" y="256.25" width="7.42" height="7.42" fill="#9a5d26"/>
+<rect x="46.50" y="235.00" width="13.30" height="6.80" fill="#463026"/>
+<rect x="59.50" y="235.00" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="66.00" y="235.00" width="13.30" height="6.80" fill="#0fb241"/>
+<rect x="79.00" y="235.00" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="85.50" y="235.00" width="6.80" height="6.80" fill="#6ce48b"/>
+<rect x="92.00" y="235.00" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="98.50" y="235.00" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="105.00" y="235.00" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="111.50" y="235.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="118.00" y="235.00" width="26.30" height="6.80" fill="#9a5d26"/>
+<rect x="144.00" y="235.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="150.50" y="235.00" width="45.80" height="6.80" fill="#34463d"/>
+<rect x="196.00" y="235.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="202.50" y="235.00" width="26.30" height="6.80" fill="#9a5d26"/>
+<rect x="228.50" y="235.00" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="235.00" y="235.00" width="6.80" height="6.80" fill="#464646"/>
+<rect x="241.50" y="235.00" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="248.00" y="235.00" width="13.30" height="6.80" fill="#5da367"/>
+<rect x="261.00" y="235.00" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="267.50" y="235.00" width="19.80" height="6.80" fill="#34463d"/>
+<rect x="287.00" y="235.00" width="6.80" height="6.80" fill="#9a5d26"/>
 </g>
-<clipPath id="r35"><rect x="14" y="263.38" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="1.050s" fill="freeze"/></rect></clipPath>
+<clipPath id="r35"><rect x="14" y="241.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="1.050s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r35)">
-<rect x="49.62" y="263.38" width="14.55" height="7.42" fill="#463026"/>
-<rect x="63.88" y="263.38" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="71.00" y="263.38" width="14.55" height="7.42" fill="#0fb241"/>
-<rect x="85.25" y="263.38" width="14.55" height="7.42" fill="#5da367"/>
-<rect x="99.50" y="263.38" width="7.42" height="7.42" fill="#6ce48b"/>
-<rect x="106.62" y="263.38" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="113.75" y="263.38" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="120.88" y="263.38" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="128.00" y="263.38" width="28.80" height="7.42" fill="#9a5d26"/>
-<rect x="156.50" y="263.38" width="7.42" height="7.42" fill="#463026"/>
-<rect x="163.62" y="263.38" width="43.05" height="7.42" fill="#34463d"/>
-<rect x="206.38" y="263.38" width="7.42" height="7.42" fill="#004631"/>
-<rect x="213.50" y="263.38" width="7.42" height="7.42" fill="#463026"/>
-<rect x="220.62" y="263.38" width="21.68" height="7.42" fill="#9a5d26"/>
-<rect x="242.00" y="263.38" width="7.42" height="7.42" fill="#463026"/>
-<rect x="249.12" y="263.38" width="7.42" height="7.42" fill="#464646"/>
-<rect x="256.25" y="263.38" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="263.38" y="263.38" width="14.55" height="7.42" fill="#5da367"/>
-<rect x="277.62" y="263.38" width="14.55" height="7.42" fill="#2d6837"/>
-<rect x="291.88" y="263.38" width="21.68" height="7.42" fill="#34463d"/>
-<rect x="313.25" y="263.38" width="7.42" height="7.42" fill="#9a5d26"/>
+<rect x="46.50" y="241.50" width="13.30" height="6.80" fill="#463026"/>
+<rect x="59.50" y="241.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="66.00" y="241.50" width="13.30" height="6.80" fill="#0fb241"/>
+<rect x="79.00" y="241.50" width="13.30" height="6.80" fill="#5da367"/>
+<rect x="92.00" y="241.50" width="6.80" height="6.80" fill="#6ce48b"/>
+<rect x="98.50" y="241.50" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="105.00" y="241.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="111.50" y="241.50" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="118.00" y="241.50" width="26.30" height="6.80" fill="#9a5d26"/>
+<rect x="144.00" y="241.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="150.50" y="241.50" width="39.30" height="6.80" fill="#34463d"/>
+<rect x="189.50" y="241.50" width="6.80" height="6.80" fill="#004631"/>
+<rect x="196.00" y="241.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="202.50" y="241.50" width="19.80" height="6.80" fill="#9a5d26"/>
+<rect x="222.00" y="241.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="228.50" y="241.50" width="6.80" height="6.80" fill="#464646"/>
+<rect x="235.00" y="241.50" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="241.50" y="241.50" width="13.30" height="6.80" fill="#5da367"/>
+<rect x="254.50" y="241.50" width="13.30" height="6.80" fill="#2d6837"/>
+<rect x="267.50" y="241.50" width="19.80" height="6.80" fill="#34463d"/>
+<rect x="287.00" y="241.50" width="6.80" height="6.80" fill="#9a5d26"/>
 </g>
-<clipPath id="r36"><rect x="14" y="270.50" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="1.080s" fill="freeze"/></rect></clipPath>
+<clipPath id="r36"><rect x="14" y="248.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="1.080s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r36)">
-<rect x="49.62" y="270.50" width="14.55" height="7.42" fill="#463026"/>
-<rect x="63.88" y="270.50" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="71.00" y="270.50" width="14.55" height="7.42" fill="#0fb241"/>
-<rect x="85.25" y="270.50" width="14.55" height="7.42" fill="#5da367"/>
-<rect x="99.50" y="270.50" width="14.55" height="7.42" fill="#6ce48b"/>
-<rect x="113.75" y="270.50" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="120.88" y="270.50" width="14.55" height="7.42" fill="#463026"/>
-<rect x="135.12" y="270.50" width="21.68" height="7.42" fill="#9a5d26"/>
-<rect x="156.50" y="270.50" width="7.42" height="7.42" fill="#463026"/>
-<rect x="163.62" y="270.50" width="7.42" height="7.42" fill="#464646"/>
-<rect x="170.75" y="270.50" width="35.92" height="7.42" fill="#004631"/>
-<rect x="206.38" y="270.50" width="7.42" height="7.42" fill="#464646"/>
-<rect x="213.50" y="270.50" width="7.42" height="7.42" fill="#463026"/>
-<rect x="220.62" y="270.50" width="21.68" height="7.42" fill="#9a5d26"/>
-<rect x="242.00" y="270.50" width="7.42" height="7.42" fill="#463026"/>
-<rect x="249.12" y="270.50" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="256.25" y="270.50" width="21.68" height="7.42" fill="#5da367"/>
-<rect x="277.62" y="270.50" width="14.55" height="7.42" fill="#2d6837"/>
-<rect x="291.88" y="270.50" width="7.42" height="7.42" fill="#463026"/>
-<rect x="299.00" y="270.50" width="14.55" height="7.42" fill="#34463d"/>
-<rect x="313.25" y="270.50" width="7.42" height="7.42" fill="#9a5d26"/>
+<rect x="46.50" y="248.00" width="13.30" height="6.80" fill="#463026"/>
+<rect x="59.50" y="248.00" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="66.00" y="248.00" width="13.30" height="6.80" fill="#0fb241"/>
+<rect x="79.00" y="248.00" width="13.30" height="6.80" fill="#5da367"/>
+<rect x="92.00" y="248.00" width="13.30" height="6.80" fill="#6ce48b"/>
+<rect x="105.00" y="248.00" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="111.50" y="248.00" width="13.30" height="6.80" fill="#463026"/>
+<rect x="124.50" y="248.00" width="19.80" height="6.80" fill="#9a5d26"/>
+<rect x="144.00" y="248.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="150.50" y="248.00" width="6.80" height="6.80" fill="#464646"/>
+<rect x="157.00" y="248.00" width="32.80" height="6.80" fill="#004631"/>
+<rect x="189.50" y="248.00" width="6.80" height="6.80" fill="#464646"/>
+<rect x="196.00" y="248.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="202.50" y="248.00" width="19.80" height="6.80" fill="#9a5d26"/>
+<rect x="222.00" y="248.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="228.50" y="248.00" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="235.00" y="248.00" width="19.80" height="6.80" fill="#5da367"/>
+<rect x="254.50" y="248.00" width="13.30" height="6.80" fill="#2d6837"/>
+<rect x="267.50" y="248.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="274.00" y="248.00" width="13.30" height="6.80" fill="#34463d"/>
+<rect x="287.00" y="248.00" width="6.80" height="6.80" fill="#9a5d26"/>
 </g>
-<clipPath id="r37"><rect x="14" y="277.62" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="1.110s" fill="freeze"/></rect></clipPath>
+<clipPath id="r37"><rect x="14" y="254.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="1.110s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r37)">
-<rect x="49.62" y="277.62" width="14.55" height="7.42" fill="#463026"/>
-<rect x="63.88" y="277.62" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="71.00" y="277.62" width="14.55" height="7.42" fill="#0fb241"/>
-<rect x="85.25" y="277.62" width="14.55" height="7.42" fill="#5da367"/>
-<rect x="99.50" y="277.62" width="21.68" height="7.42" fill="#6ce48b"/>
-<rect x="120.88" y="277.62" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="128.00" y="277.62" width="7.42" height="7.42" fill="#463026"/>
-<rect x="135.12" y="277.62" width="28.80" height="7.42" fill="#9a5d26"/>
-<rect x="163.62" y="277.62" width="43.05" height="7.42" fill="#463026"/>
-<rect x="206.38" y="277.62" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="213.50" y="277.62" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="220.62" y="277.62" width="21.68" height="7.42" fill="#9a5d26"/>
-<rect x="242.00" y="277.62" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="249.12" y="277.62" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="256.25" y="277.62" width="28.80" height="7.42" fill="#5da367"/>
-<rect x="284.75" y="277.62" width="14.55" height="7.42" fill="#2d6837"/>
-<rect x="299.00" y="277.62" width="14.55" height="7.42" fill="#34463d"/>
-<rect x="313.25" y="277.62" width="7.42" height="7.42" fill="#463026"/>
+<rect x="46.50" y="254.50" width="13.30" height="6.80" fill="#463026"/>
+<rect x="59.50" y="254.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="66.00" y="254.50" width="13.30" height="6.80" fill="#0fb241"/>
+<rect x="79.00" y="254.50" width="13.30" height="6.80" fill="#5da367"/>
+<rect x="92.00" y="254.50" width="19.80" height="6.80" fill="#6ce48b"/>
+<rect x="111.50" y="254.50" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="118.00" y="254.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="124.50" y="254.50" width="26.30" height="6.80" fill="#9a5d26"/>
+<rect x="150.50" y="254.50" width="39.30" height="6.80" fill="#463026"/>
+<rect x="189.50" y="254.50" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="196.00" y="254.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="202.50" y="254.50" width="19.80" height="6.80" fill="#9a5d26"/>
+<rect x="222.00" y="254.50" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="228.50" y="254.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="235.00" y="254.50" width="26.30" height="6.80" fill="#5da367"/>
+<rect x="261.00" y="254.50" width="13.30" height="6.80" fill="#2d6837"/>
+<rect x="274.00" y="254.50" width="13.30" height="6.80" fill="#34463d"/>
+<rect x="287.00" y="254.50" width="6.80" height="6.80" fill="#463026"/>
 </g>
-<clipPath id="r38"><rect x="14" y="284.75" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="1.140s" fill="freeze"/></rect></clipPath>
+<clipPath id="r38"><rect x="14" y="261.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="1.140s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r38)">
-<rect x="49.62" y="284.75" width="21.68" height="7.42" fill="#2d6837"/>
-<rect x="71.00" y="284.75" width="14.55" height="7.42" fill="#0fb241"/>
-<rect x="85.25" y="284.75" width="14.55" height="7.42" fill="#5da367"/>
-<rect x="99.50" y="284.75" width="21.68" height="7.42" fill="#6ce48b"/>
-<rect x="120.88" y="284.75" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="128.00" y="284.75" width="7.42" height="7.42" fill="#463026"/>
-<rect x="135.12" y="284.75" width="28.80" height="7.42" fill="#9a5d26"/>
-<rect x="163.62" y="284.75" width="43.05" height="7.42" fill="#2d6837"/>
-<rect x="206.38" y="284.75" width="7.42" height="7.42" fill="#463026"/>
-<rect x="213.50" y="284.75" width="28.80" height="7.42" fill="#9a5d26"/>
-<rect x="242.00" y="284.75" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="249.12" y="284.75" width="35.92" height="7.42" fill="#5da367"/>
-<rect x="284.75" y="284.75" width="14.55" height="7.42" fill="#2d6837"/>
-<rect x="299.00" y="284.75" width="21.68" height="7.42" fill="#34463d"/>
+<rect x="46.50" y="261.00" width="19.80" height="6.80" fill="#2d6837"/>
+<rect x="66.00" y="261.00" width="13.30" height="6.80" fill="#0fb241"/>
+<rect x="79.00" y="261.00" width="13.30" height="6.80" fill="#5da367"/>
+<rect x="92.00" y="261.00" width="19.80" height="6.80" fill="#6ce48b"/>
+<rect x="111.50" y="261.00" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="118.00" y="261.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="124.50" y="261.00" width="26.30" height="6.80" fill="#9a5d26"/>
+<rect x="150.50" y="261.00" width="39.30" height="6.80" fill="#2d6837"/>
+<rect x="189.50" y="261.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="196.00" y="261.00" width="26.30" height="6.80" fill="#9a5d26"/>
+<rect x="222.00" y="261.00" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="228.50" y="261.00" width="32.80" height="6.80" fill="#5da367"/>
+<rect x="261.00" y="261.00" width="13.30" height="6.80" fill="#2d6837"/>
+<rect x="274.00" y="261.00" width="19.80" height="6.80" fill="#34463d"/>
 </g>
-<clipPath id="r39"><rect x="14" y="291.88" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="1.170s" fill="freeze"/></rect></clipPath>
+<clipPath id="r39"><rect x="14" y="267.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="1.170s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r39)">
-<rect x="49.62" y="291.88" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="56.75" y="291.88" width="28.80" height="7.42" fill="#0fb241"/>
-<rect x="85.25" y="291.88" width="14.55" height="7.42" fill="#5da367"/>
-<rect x="99.50" y="291.88" width="28.80" height="7.42" fill="#6ce48b"/>
-<rect x="128.00" y="291.88" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="135.12" y="291.88" width="28.80" height="7.42" fill="#9a5d26"/>
-<rect x="163.62" y="291.88" width="14.55" height="7.42" fill="#2d6837"/>
-<rect x="177.88" y="291.88" width="35.92" height="7.42" fill="#463026"/>
-<rect x="213.50" y="291.88" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="220.62" y="291.88" width="14.55" height="7.42" fill="#9a5d26"/>
-<rect x="234.88" y="291.88" width="7.42" height="7.42" fill="#463026"/>
-<rect x="242.00" y="291.88" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="249.12" y="291.88" width="28.80" height="7.42" fill="#5da367"/>
-<rect x="277.62" y="291.88" width="21.68" height="7.42" fill="#2d6837"/>
-<rect x="299.00" y="291.88" width="21.68" height="7.42" fill="#34463d"/>
+<rect x="46.50" y="267.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="53.00" y="267.50" width="26.30" height="6.80" fill="#0fb241"/>
+<rect x="79.00" y="267.50" width="13.30" height="6.80" fill="#5da367"/>
+<rect x="92.00" y="267.50" width="26.30" height="6.80" fill="#6ce48b"/>
+<rect x="118.00" y="267.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="124.50" y="267.50" width="26.30" height="6.80" fill="#9a5d26"/>
+<rect x="150.50" y="267.50" width="13.30" height="6.80" fill="#2d6837"/>
+<rect x="163.50" y="267.50" width="32.80" height="6.80" fill="#463026"/>
+<rect x="196.00" y="267.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="202.50" y="267.50" width="13.30" height="6.80" fill="#9a5d26"/>
+<rect x="215.50" y="267.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="222.00" y="267.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="228.50" y="267.50" width="26.30" height="6.80" fill="#5da367"/>
+<rect x="254.50" y="267.50" width="19.80" height="6.80" fill="#2d6837"/>
+<rect x="274.00" y="267.50" width="19.80" height="6.80" fill="#34463d"/>
 </g>
-<clipPath id="r40"><rect x="14" y="299.00" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="1.200s" fill="freeze"/></rect></clipPath>
+<clipPath id="r40"><rect x="14" y="274.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="1.200s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r40)">
-<rect x="49.62" y="299.00" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="56.75" y="299.00" width="14.55" height="7.42" fill="#0fb241"/>
-<rect x="71.00" y="299.00" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="78.12" y="299.00" width="21.68" height="7.42" fill="#0fb241"/>
-<rect x="99.50" y="299.00" width="14.55" height="7.42" fill="#5da367"/>
-<rect x="113.75" y="299.00" width="14.55" height="7.42" fill="#6ce48b"/>
-<rect x="128.00" y="299.00" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="135.12" y="299.00" width="28.80" height="7.42" fill="#9a5d26"/>
-<rect x="163.62" y="299.00" width="21.68" height="7.42" fill="#5da367"/>
-<rect x="185.00" y="299.00" width="14.55" height="7.42" fill="#2d6837"/>
-<rect x="199.25" y="299.00" width="14.55" height="7.42" fill="#5da367"/>
-<rect x="213.50" y="299.00" width="21.68" height="7.42" fill="#9a5d26"/>
-<rect x="234.88" y="299.00" width="7.42" height="7.42" fill="#463026"/>
-<rect x="242.00" y="299.00" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="249.12" y="299.00" width="14.55" height="7.42" fill="#5da367"/>
-<rect x="263.38" y="299.00" width="43.05" height="7.42" fill="#2d6837"/>
-<rect x="306.12" y="299.00" width="7.42" height="7.42" fill="#0fb241"/>
-<rect x="313.25" y="299.00" width="7.42" height="7.42" fill="#2d6837"/>
+<rect x="46.50" y="274.00" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="53.00" y="274.00" width="13.30" height="6.80" fill="#0fb241"/>
+<rect x="66.00" y="274.00" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="72.50" y="274.00" width="19.80" height="6.80" fill="#0fb241"/>
+<rect x="92.00" y="274.00" width="13.30" height="6.80" fill="#5da367"/>
+<rect x="105.00" y="274.00" width="13.30" height="6.80" fill="#6ce48b"/>
+<rect x="118.00" y="274.00" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="124.50" y="274.00" width="26.30" height="6.80" fill="#9a5d26"/>
+<rect x="150.50" y="274.00" width="19.80" height="6.80" fill="#5da367"/>
+<rect x="170.00" y="274.00" width="13.30" height="6.80" fill="#2d6837"/>
+<rect x="183.00" y="274.00" width="13.30" height="6.80" fill="#5da367"/>
+<rect x="196.00" y="274.00" width="19.80" height="6.80" fill="#9a5d26"/>
+<rect x="215.50" y="274.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="222.00" y="274.00" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="228.50" y="274.00" width="13.30" height="6.80" fill="#5da367"/>
+<rect x="241.50" y="274.00" width="39.30" height="6.80" fill="#2d6837"/>
+<rect x="280.50" y="274.00" width="6.80" height="6.80" fill="#0fb241"/>
+<rect x="287.00" y="274.00" width="6.80" height="6.80" fill="#2d6837"/>
 </g>
-<clipPath id="r41"><rect x="14" y="306.12" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="1.230s" fill="freeze"/></rect></clipPath>
+<clipPath id="r41"><rect x="14" y="280.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="1.230s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r41)">
-<rect x="49.62" y="306.12" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="56.75" y="306.12" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="63.88" y="306.12" width="64.42" height="7.42" fill="#6ce48b"/>
-<rect x="128.00" y="306.12" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="135.12" y="306.12" width="21.68" height="7.42" fill="#9a5d26"/>
-<rect x="156.50" y="306.12" width="64.42" height="7.42" fill="#6ce48b"/>
-<rect x="220.62" y="306.12" width="14.55" height="7.42" fill="#9a5d26"/>
-<rect x="234.88" y="306.12" width="7.42" height="7.42" fill="#463026"/>
-<rect x="242.00" y="306.12" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="249.12" y="306.12" width="28.80" height="7.42" fill="#5da367"/>
-<rect x="277.62" y="306.12" width="35.92" height="7.42" fill="#6ce48b"/>
-<rect x="313.25" y="306.12" width="7.42" height="7.42" fill="#2d6837"/>
+<rect x="46.50" y="280.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="53.00" y="280.50" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="59.50" y="280.50" width="58.80" height="6.80" fill="#6ce48b"/>
+<rect x="118.00" y="280.50" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="124.50" y="280.50" width="19.80" height="6.80" fill="#9a5d26"/>
+<rect x="144.00" y="280.50" width="58.80" height="6.80" fill="#6ce48b"/>
+<rect x="202.50" y="280.50" width="13.30" height="6.80" fill="#9a5d26"/>
+<rect x="215.50" y="280.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="222.00" y="280.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="228.50" y="280.50" width="26.30" height="6.80" fill="#5da367"/>
+<rect x="254.50" y="280.50" width="32.80" height="6.80" fill="#6ce48b"/>
+<rect x="287.00" y="280.50" width="6.80" height="6.80" fill="#2d6837"/>
 </g>
-<clipPath id="r42"><rect x="14" y="313.25" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="1.260s" fill="freeze"/></rect></clipPath>
+<clipPath id="r42"><rect x="14" y="287.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="1.260s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r42)">
-<rect x="56.75" y="313.25" width="14.55" height="7.42" fill="#6ce48b"/>
-<rect x="71.00" y="313.25" width="43.05" height="7.42" fill="#5da367"/>
-<rect x="113.75" y="313.25" width="21.68" height="7.42" fill="#2d6837"/>
-<rect x="135.12" y="313.25" width="28.80" height="7.42" fill="#9a5d26"/>
-<rect x="163.62" y="313.25" width="57.30" height="7.42" fill="#5da367"/>
-<rect x="220.62" y="313.25" width="14.55" height="7.42" fill="#9a5d26"/>
-<rect x="234.88" y="313.25" width="7.42" height="7.42" fill="#463026"/>
-<rect x="242.00" y="313.25" width="21.68" height="7.42" fill="#2d6837"/>
-<rect x="263.38" y="313.25" width="35.92" height="7.42" fill="#5da367"/>
-<rect x="299.00" y="313.25" width="7.42" height="7.42" fill="#6ce48b"/>
-<rect x="306.12" y="313.25" width="7.42" height="7.42" fill="#5da367"/>
+<rect x="53.00" y="287.00" width="13.30" height="6.80" fill="#6ce48b"/>
+<rect x="66.00" y="287.00" width="39.30" height="6.80" fill="#5da367"/>
+<rect x="105.00" y="287.00" width="19.80" height="6.80" fill="#2d6837"/>
+<rect x="124.50" y="287.00" width="26.30" height="6.80" fill="#9a5d26"/>
+<rect x="150.50" y="287.00" width="52.30" height="6.80" fill="#5da367"/>
+<rect x="202.50" y="287.00" width="13.30" height="6.80" fill="#9a5d26"/>
+<rect x="215.50" y="287.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="222.00" y="287.00" width="19.80" height="6.80" fill="#2d6837"/>
+<rect x="241.50" y="287.00" width="32.80" height="6.80" fill="#5da367"/>
+<rect x="274.00" y="287.00" width="6.80" height="6.80" fill="#6ce48b"/>
+<rect x="280.50" y="287.00" width="6.80" height="6.80" fill="#5da367"/>
 </g>
-<clipPath id="r43"><rect x="14" y="320.38" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="1.290s" fill="freeze"/></rect></clipPath>
+<clipPath id="r43"><rect x="14" y="293.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="1.290s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r43)">
-<rect x="63.88" y="320.38" width="7.42" height="7.42" fill="#463026"/>
-<rect x="71.00" y="320.38" width="7.42" height="7.42" fill="#2d6837"/>
-<rect x="78.12" y="320.38" width="35.92" height="7.42" fill="#0fb241"/>
-<rect x="113.75" y="320.38" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="120.88" y="320.38" width="14.55" height="7.42" fill="#0fb241"/>
-<rect x="135.12" y="320.38" width="135.68" height="7.42" fill="#5da367"/>
-<rect x="270.50" y="320.38" width="21.68" height="7.42" fill="#0fb241"/>
-<rect x="291.88" y="320.38" width="7.42" height="7.42" fill="#463026"/>
-<rect x="299.00" y="320.38" width="7.42" height="7.42" fill="#5da367"/>
+<rect x="59.50" y="293.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="66.00" y="293.50" width="6.80" height="6.80" fill="#2d6837"/>
+<rect x="72.50" y="293.50" width="32.80" height="6.80" fill="#0fb241"/>
+<rect x="105.00" y="293.50" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="111.50" y="293.50" width="13.30" height="6.80" fill="#0fb241"/>
+<rect x="124.50" y="293.50" width="123.80" height="6.80" fill="#5da367"/>
+<rect x="248.00" y="293.50" width="19.80" height="6.80" fill="#0fb241"/>
+<rect x="267.50" y="293.50" width="6.80" height="6.80" fill="#463026"/>
+<rect x="274.00" y="293.50" width="6.80" height="6.80" fill="#5da367"/>
 </g>
-<clipPath id="r44"><rect x="14" y="327.50" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="1.320s" fill="freeze"/></rect></clipPath>
+<clipPath id="r44"><rect x="14" y="300.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="1.320s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r44)">
-<rect x="71.00" y="327.50" width="14.55" height="7.42" fill="#0fb241"/>
-<rect x="85.25" y="327.50" width="21.68" height="7.42" fill="#6ce48b"/>
-<rect x="106.62" y="327.50" width="21.68" height="7.42" fill="#5da367"/>
-<rect x="128.00" y="327.50" width="7.42" height="7.42" fill="#0fb241"/>
-<rect x="135.12" y="327.50" width="35.92" height="7.42" fill="#5da367"/>
-<rect x="170.75" y="327.50" width="57.30" height="7.42" fill="#6ce48b"/>
-<rect x="227.75" y="327.50" width="7.42" height="7.42" fill="#5da367"/>
-<rect x="234.88" y="327.50" width="14.55" height="7.42" fill="#6ce48b"/>
-<rect x="249.12" y="327.50" width="28.80" height="7.42" fill="#5da367"/>
-<rect x="277.62" y="327.50" width="14.55" height="7.42" fill="#0fb241"/>
-<rect x="291.88" y="327.50" width="7.42" height="7.42" fill="#2d6837"/>
+<rect x="66.00" y="300.00" width="13.30" height="6.80" fill="#0fb241"/>
+<rect x="79.00" y="300.00" width="19.80" height="6.80" fill="#6ce48b"/>
+<rect x="98.50" y="300.00" width="19.80" height="6.80" fill="#5da367"/>
+<rect x="118.00" y="300.00" width="6.80" height="6.80" fill="#0fb241"/>
+<rect x="124.50" y="300.00" width="32.80" height="6.80" fill="#5da367"/>
+<rect x="157.00" y="300.00" width="52.30" height="6.80" fill="#6ce48b"/>
+<rect x="209.00" y="300.00" width="6.80" height="6.80" fill="#5da367"/>
+<rect x="215.50" y="300.00" width="13.30" height="6.80" fill="#6ce48b"/>
+<rect x="228.50" y="300.00" width="26.30" height="6.80" fill="#5da367"/>
+<rect x="254.50" y="300.00" width="13.30" height="6.80" fill="#0fb241"/>
+<rect x="267.50" y="300.00" width="6.80" height="6.80" fill="#2d6837"/>
 </g>
-<clipPath id="r45"><rect x="14" y="334.62" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="1.350s" fill="freeze"/></rect></clipPath>
+<clipPath id="r45"><rect x="14" y="306.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="1.350s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r45)">
-<rect x="85.25" y="334.62" width="199.80" height="7.42" fill="#2d6837"/>
+<rect x="79.00" y="306.50" width="182.30" height="6.80" fill="#2d6837"/>
 </g>
-<clipPath id="r46"><rect x="14" y="341.75" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="1.380s" fill="freeze"/></rect></clipPath>
+<clipPath id="r46"><rect x="14" y="313.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="1.380s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r46)">
-<rect x="99.50" y="341.75" width="7.42" height="7.42" fill="#463026"/>
-<rect x="106.62" y="341.75" width="157.05" height="7.42" fill="#5da367"/>
-<rect x="263.38" y="341.75" width="7.42" height="7.42" fill="#463026"/>
+<rect x="92.00" y="313.00" width="6.80" height="6.80" fill="#463026"/>
+<rect x="98.50" y="313.00" width="143.30" height="6.80" fill="#5da367"/>
+<rect x="241.50" y="313.00" width="6.80" height="6.80" fill="#463026"/>
 </g>
-<clipPath id="r47"><rect x="14" y="348.88" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="1.410s" fill="freeze"/></rect></clipPath>
+<clipPath id="r47"><rect x="14" y="319.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="1.410s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r47)">
-<rect x="113.75" y="348.88" width="7.42" height="7.42" fill="#6ce48b"/>
-<rect x="120.88" y="348.88" width="135.68" height="7.42" fill="#5da367"/>
+<rect x="105.00" y="319.50" width="6.80" height="6.80" fill="#6ce48b"/>
+<rect x="111.50" y="319.50" width="123.80" height="6.80" fill="#5da367"/>
 </g>
-<clipPath id="r48"><rect x="14" y="356.00" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="1.440s" fill="freeze"/></rect></clipPath>
+<clipPath id="r48"><rect x="14" y="326.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="1.440s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r48)">
-<rect x="142.25" y="356.00" width="7.42" height="7.42" fill="#34463d"/>
-<rect x="149.38" y="356.00" width="28.80" height="7.42" fill="#2d6837"/>
-<rect x="177.88" y="356.00" width="14.55" height="7.42" fill="#34463d"/>
-<rect x="192.12" y="356.00" width="28.80" height="7.42" fill="#2d6837"/>
-<rect x="220.62" y="356.00" width="7.42" height="7.42" fill="#34463d"/>
+<rect x="131.00" y="326.00" width="6.80" height="6.80" fill="#34463d"/>
+<rect x="137.50" y="326.00" width="26.30" height="6.80" fill="#2d6837"/>
+<rect x="163.50" y="326.00" width="13.30" height="6.80" fill="#34463d"/>
+<rect x="176.50" y="326.00" width="26.30" height="6.80" fill="#2d6837"/>
+<rect x="202.50" y="326.00" width="6.80" height="6.80" fill="#34463d"/>
 </g>
-<clipPath id="r49"><rect x="14" y="363.12" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="1.470s" fill="freeze"/></rect></clipPath>
+<clipPath id="r49"><rect x="14" y="332.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="1.470s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r49)">
 </g>
-<clipPath id="r50"><rect x="14" y="370.25" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="1.500s" fill="freeze"/></rect></clipPath>
+<clipPath id="r50"><rect x="14" y="339.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="1.500s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r50)">
 </g>
-<clipPath id="r51"><rect x="14" y="377.38" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="1.530s" fill="freeze"/></rect></clipPath>
+<clipPath id="r51"><rect x="14" y="345.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="1.530s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r51)">
 </g>
-<clipPath id="r52"><rect x="14" y="384.50" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="1.560s" fill="freeze"/></rect></clipPath>
+<clipPath id="r52"><rect x="14" y="352.00" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="1.560s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r52)">
 </g>
-<clipPath id="r53"><rect x="14" y="391.62" width="0" height="7.62"><animate attributeName="width" from="0" to="342.00" dur="0.45s" begin="1.590s" fill="freeze"/></rect></clipPath>
+<clipPath id="r53"><rect x="14" y="358.50" width="0" height="7.00"><animate attributeName="width" from="0" to="312.00" dur="0.45s" begin="1.590s" fill="freeze"/></rect></clipPath>
 <g clip-path="url(#r53)">
 </g>
 </g></svg>

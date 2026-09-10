@@ -5,7 +5,7 @@ Lines fade and slide in one after another (CSS keyframes inside the SVG —
 GitHub honours them because the SVG is loaded via <img>). STATIC=1 in the
 environment renders the final frame with no animation (handy for previews).
 
-Usage: python scripts/make_info_card.py [--out info-card.svg] [--width 490] [--height 413]
+Usage: python scripts/make_info_card.py [--out info-card.svg] [--width 480] [--height 379]
 Edit CONTENT below when the details change, then re-run.
 """
 import argparse
@@ -81,8 +81,8 @@ def build(width: int, height: int, static: bool) -> str:
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default="info-card.svg")
-    ap.add_argument("--width", type=int, default=490)
-    ap.add_argument("--height", type=int, default=413)
+    ap.add_argument("--width", type=int, default=480)
+    ap.add_argument("--height", type=int, default=379)
     a = ap.parse_args()
     svg = build(a.width, a.height, os.environ.get("STATIC") == "1")
     with open(a.out, "w") as f:
