@@ -1,0 +1,5 @@
+# Portrait pipeline (runs locally, not in CI). rembg is used as a CLI (see prep_photo.py).
+-r requirements.txt
+pillow>=10.4
+numpy>=1.26
+opencv-python-headless>=4.10
