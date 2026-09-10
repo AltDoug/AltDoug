@@ -10,7 +10,7 @@ whose width animates 0 -> full (SMIL), staggered top-to-bottom, so the image
 <img> and honours SMIL.
 
 Usage: python scripts/make_ascii_svg.py [--src source-prepped.png] [--out altdoug-portrait.svg]
-       [--cols 48] [--width 370] [--colors 10] [--style pixels|ascii]
+       [--cols 48] [--width 340] [--colors 10] [--style pixels|ascii]
 Prints the SVG height so the info card can be sized to match.
 """
 import argparse
@@ -145,7 +145,7 @@ def main() -> None:
     ap.add_argument("--src", default="source-prepped.png")
     ap.add_argument("--out", default="altdoug-portrait.svg")
     ap.add_argument("--cols", type=int, default=48)
-    ap.add_argument("--width", type=int, default=370)
+    ap.add_argument("--width", type=int, default=340)
     ap.add_argument("--pad", type=int, default=14)
     ap.add_argument("--gamma", type=float, default=1.0, help=">1 thins mid-tones, <1 thickens them")
     ap.add_argument("--colors", type=int, default=10, help="palette size")

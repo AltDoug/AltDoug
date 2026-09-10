@@ -14,7 +14,7 @@ import json
 PALETTE = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
 BG, BORDER, TEXT, DIM = "#0d1117", "#30363d", "#c9d1d9", "#8b949e"
 FONT = "-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif"
-CELL, GAP, R = 12, 3, 2
+CELL, GAP, R = 11, 3, 2
 STEP = CELL + GAP
 
 
@@ -78,7 +78,7 @@ def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--src", default="data/contributions.json")
     ap.add_argument("--out", default="contrib-heatmap.svg")
-    ap.add_argument("--width", type=int, default=860)
+    ap.add_argument("--width", type=int, default=820)
     a = ap.parse_args()
     with open(a.src) as f:
         data = json.load(f)

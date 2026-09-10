@@ -4,14 +4,15 @@
      beside a neofetch-style info card (lines slide in). Both are static SVGs:
        python scripts/prep_photo.py <image> && python scripts/make_ascii_svg.py
        python scripts/make_info_card.py
-     Widths 370 + 490 = 860 so the row lines up with the heatmap below; the two
+     Widths 340 + 480 = 820 so the row lines up with the heatmap below and fits
+     the ~830px README column on the profile page (860 wrapped); the two
      <img>s sit in one <p> with no whitespace between them, so they stay
      side by side on desktop and stack on narrow screens (a <table> would
      squeeze both to thumbnails instead). -->
 
 <h3><code>altdoug@github ~ $ whoami</code></h3>
 
-<p><img src="./altdoug-portrait.svg" width="370" alt="AltDoug — pixel-art portrait of my avatar" /><img src="./info-card.svg" width="490" alt="Diogo Silva Sena — info card" /></p>
+<p><img src="./altdoug-portrait.svg" width="340" alt="AltDoug — pixel-art portrait of my avatar" /><img src="./info-card.svg" width="480" alt="Diogo Silva Sena — info card" /></p>
 
 <br>
 <br>
@@ -21,7 +22,7 @@
 
 <h3><code>altdoug@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="AltDoug's GitHub contribution graph — refreshed daily" />
+<img src="./contrib-heatmap.svg" width="820" alt="AltDoug's GitHub contribution graph — refreshed daily" />
 
 <br>
 <br>
