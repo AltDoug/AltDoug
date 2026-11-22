@@ -1,43 +1,8 @@
 {
  "user": "AltDoug",
- "fetched_at": "2026-11-21T06:27:31Z",
+ "fetched_at": "2026-11-22T06:27:28Z",
  "source": "graphql",
  "days": [
-  {
-   "date": "2025-11-16",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-17",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-18",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-19",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-20",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-21",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-22",
-   "count": 0,
-   "level": 0
-  },
   {
    "date": "2025-11-23",
    "count": 0,
@@ -1855,11 +1820,16 @@
   },
   {
    "date": "2026-11-21",
-   "count": 2,
+   "count": 28,
+   "level": 1
+  },
+  {
+   "date": "2026-11-22",
+   "count": 1,
    "level": 1
   }
  ],
- "total": 8602,
- "longest_streak": 64,
- "current_streak": 64
+ "total": 8629,
+ "longest_streak": 65,
+ "current_streak": 65
 }
